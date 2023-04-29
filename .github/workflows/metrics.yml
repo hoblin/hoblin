@@ -18,3 +18,5 @@ jobs:
           config_timezone: Europe/Helsinki
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_activity: yes
+          plugin_activity_visibility: public
